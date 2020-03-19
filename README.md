@@ -1,3 +1,10 @@
+# Tetris
+
+![Image description](https://i.ibb.co/hXhRy26/Screen-Shot-2020-03-19-at-12-00-19-PM.png)
+![Image description](https://i.ibb.co/gFj1sLB/Screen-Shot-2020-03-19-at-11-58-54-AM.png)
+
+Tetris game with React. I will learn how to build Tetris from scratch using hooks like useState, useEffect, useCallback and custom hooks. Styling is done with Styled Components.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
